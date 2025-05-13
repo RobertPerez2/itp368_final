@@ -1,12 +1,6 @@
 # itp368_final
 
-Mental Health and Task Manager App!
-
-2 Pages. 
-
-The main page allows the user to track their tasks through a task manager and also their daily moods through emoji buttons. The secondary page is statistics page that shows all of the moods the user has recorded in the past few days. Both tasks and timestamped moods persist across app restarts!
-
-Used lottie API for animations in the app.
+For my project, I created a Mental Health and Task Manager App! The application consists of 2 pages. The main page allows the user to track their tasks through a task manager and also their daily moods through emoji buttons. The secondary page is statistics page that shows all of the moods the user has recorded in the past few days. Both tasks and timestamped moods persist across app restarts! I also used lottie API for images/animations in the app. Thank you for a wonderful semester!
 
 
 ## Getting Started
